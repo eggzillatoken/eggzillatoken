@@ -11,5 +11,5 @@ https://bitcointalk.org/index.php?topic=5372860.new#new
 https://medium.com/@admin_14259/welcome-to-eggzilla-4e19f8ad54f9
 https://twitter.com/EggzillaNFT
 https://www.facebook.com/profile.php?id=100075356826519
-eggzilla.xyz
+https://eggzilla.xyz/
 https://bscscan.com/address/0xd0586700dbac9071474e72f94610613123a222b8
